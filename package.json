@@ -1,0 +1,19 @@
+{
+  "name": "jasmine-karma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoVeronezi/Jasmine-Karma.git"
+  },
+  "author": "Diego Veronezi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoVeronezi/Jasmine-Karma/issues"
+  },
+  "homepage": "https://github.com/DiegoVeronezi/Jasmine-Karma#readme"
+}
